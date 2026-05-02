@@ -62,19 +62,19 @@
     "STICKER_DATA": {
       "description": "Enter Sticker Packname And Author (Format: Pack;Author)",
       "required": false,
-      "value": "🎯ᴘʜᴏᴇɴɪx-ᴍᴅ;ᴀʙʜɪꜱʜᴇᴋ ꜱᴜʀᴇꜱʜ🍀"
+      "value": "🎯𝐌𝐑 𝐃𝐀𝐍𝐈-𝐌𝐃🍀"
     },
 
     "AUDIO_DATA": {
       "description": "Enter Audio Metadata (Format: Title;Artist;ThumbnailUrl)",
       "required": false,
-      "value": "Phoenix-MD;Abhishek Suresh;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg"
+      "value": "Phoenix-MD;Abhishek Suresh;https://files.catbox.moe/kye3g0.jpg"
     },
 
     "ALIVE_DATA": {
       "description": "Enter Your Custom Alive Message And Image URL",
       "required": false,
-      "value": "👋 ʜᴇʏ &sender, ɪ ᴍ *ᴘʜᴏᴇɴɪx-ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ* ᴀʟɪᴠᴇ ɴᴏᴡ!\n\n📌 ᴛʏᴘᴇ *menu* ᴛᴏ ɢᴇᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ.\n\n*ᴘʟᴀᴛꜰᴏʀᴍ:* &platform\n*ʀᴜɴᴛɪᴍᴇ:* &runtime;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg"
+      "value": "👋 ʜᴇʏ &sender, ɪ ᴍ *ᴘʜᴏᴇɴɪx-ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ* ᴀʟɪᴠᴇ ɴᴏᴡ!\n\n📌 ᴛʏᴘᴇ *menu* ᴛᴏ ɢᴇᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ.\n\n*ᴘʟᴀᴛꜰᴏʀᴍ:* &platform\n*ʀᴜɴᴛɪᴍᴇ:* &runtime;https://files.catbox.moe/kye3g0.jpg"
     },
 
     "WELCOME_MSG": {
